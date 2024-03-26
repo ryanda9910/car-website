@@ -1,6 +1,7 @@
 # Car Website
 
 ## Tech Stack
+- [Typescript](https://www.typescriptlang.org/)
 - [React Context](https://react.dev/reference/react/createContext)
 - [Next JS](https://nextjs.org/)
 
